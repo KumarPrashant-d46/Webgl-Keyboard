@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using System.Runtime.InteropServices;
-public class Input : MonoBehaviour
+public class WebGlKeyboard : MonoBehaviour
 {
     public TMP_InputField InputField;
     // Start is called before the first frame update
